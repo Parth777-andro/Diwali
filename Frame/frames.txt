@@ -155,7 +155,7 @@
 
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l23.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l24.pmg",
+      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l24.png",
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l25.png",
 
