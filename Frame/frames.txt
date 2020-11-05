@@ -30,7 +30,6 @@
 "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/16.png",
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/17.png",
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/18.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/19.png",
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/20.png",
 
