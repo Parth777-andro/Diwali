@@ -44,11 +44,8 @@
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/25.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/26.png",
 
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/27.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/28.png",
 
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/29.png",
 	  "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/30.png",
@@ -61,9 +58,7 @@
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/35.png",
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/36.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/37.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/38.png",
+  
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/39.png",
 
@@ -77,8 +72,6 @@
        "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/44.png",
 	  
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/45.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/46.png",
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/47.png",
 
@@ -100,8 +93,6 @@
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/58.png",
 
       "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/59.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/60.png",
 
     "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/61.png",
 
